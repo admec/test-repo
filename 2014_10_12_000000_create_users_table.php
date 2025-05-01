@@ -3,7 +3,11 @@ use Illuminate\Database\Migrations\Migration;
 use Illuminate\Database\Schema\Blueprint;
 use Illuminate\Support\Facades\Schema;
 
+<<<<<<< HEAD
 // hi
+=======
+// new changes
+>>>>>>> c949160408dc192830b95867c8348c212ae9bda5
 
 return new class extends Migration
 {
